@@ -187,22 +187,22 @@ Now enter splitList
 3
 2
 4
-*******
-*Firsthalf : 0x0
+
+Firsthalf : 0x0
 head this round: 0x27700
------------------------
+
 head for next round: 0x27700
---------------------------
+
 iteration: 2
 Now enter splitList
 1
 3
-*******
-*Firsthalf : 0x3ffffffad0
+
+Firsthalf : 0x3ffffffad0
 head this round: 0x27700
------------------------
+
 head for next round: 0x3f00027700
---------------------------
+
 z  0000000000000000 ra 000000000001044c sp 0000003ffffffa30 gp 0000000000025c00
 tp 0000000000000000 t0 0000000000027720 t1 0000000000022f68 t2 0000000000027700
 s0 0000003ffffffa70 s1 0000000000000000 a0 0000003f00027700 a1 00000000000272f0
