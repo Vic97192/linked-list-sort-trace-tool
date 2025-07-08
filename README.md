@@ -29,7 +29,7 @@ riscv64-unknown-elf-gcc -o main linked_list_sort_debug.c
 spike pk main input.txt
 
 
-Developement Notes:
+## Developement Notes:
 
 
 因為我完全不知道merge sort，而且對linked list也不熟，因此我先用chatgpt把python寫出來。
